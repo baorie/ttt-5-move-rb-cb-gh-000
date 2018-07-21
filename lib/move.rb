@@ -13,4 +13,5 @@ def input_to_index(in)
 end
 
 def move(board, index, player_char)
+  
 end
