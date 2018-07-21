@@ -11,3 +11,6 @@ def input_to_index(in)
   user_input = in.to_i
   index =  user_input - 1
 end
+
+def move()
+end
